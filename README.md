@@ -13,7 +13,7 @@ Patika.dev Veri Yapıları ve Algoritmaları - Insertion Sort Projesi
 
 
 **Big-O gösterimini yazınız.**
-n+(n-1)+(n-2)+...+1 = n.(n+1)/2 = n^2+n/2 
+<br>n+(n-1)+(n-2)+...+1 = n.(n+1)/2 = n^2+n/2 
 <br>[Dominant Fonksiyon n^2] olduğu için --> O(n2)
 
 **Time Complexity:** <br>
